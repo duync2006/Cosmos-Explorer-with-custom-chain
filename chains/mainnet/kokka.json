@@ -15,14 +15,14 @@
   "sdk_version": "0.47.0",
   "coin_type": "118",
   "min_tx_fee": "1000",
-  "addr_prefix": "kokka",
+  "addr_prefix": "cosmos",
   "logo": "http://localhost:80/your_logo.gif",
   "assets": [
     {
-      "base": "ukokka",
-      "symbol": "KOKKA",
+      "base": "atest",
+      "symbol": "TEST",
       "exponent": "18",
-      "coingecko_id": "kokka",
+      "coingecko_id": "",
       "logo": "http://localhost:80/your_logo.gif"
     }
   ]
