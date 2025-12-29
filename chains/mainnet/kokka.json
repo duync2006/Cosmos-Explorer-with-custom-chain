@@ -4,23 +4,25 @@
   "api": [
     { "provider": "x23", "address": "http://100.22.235.90:1317" },
     { "provider": "x22", "address": "http://44.252.171.94:1317" },
-    { "provider": "x21", "address": "http://54.190.124.5:1317" }
+    { "provider": "x21", "address": "http://54.190.124.5:1317" },
+    { "provider": "localhost", "address": "http://127.0.0.1:1317" }
   ],
   "rpc": [
     { "provider": "x23", "address": "http://100.22.235.90:26657" },
     { "provider": "x22", "address": "http://44.252.171.94:26657" },
-    { "provider": "x21", "address": "http://54.190.124.5:26657" }
+    { "provider": "x21", "address": "http://54.190.124.5:26657" },
+    { "provider": "localhost", "address": "http://127.0.0.1:26657" }
   
 ],
   "sdk_version": "0.47.0",
-  "coin_type": "118",
+  "coin_type": "60",
   "min_tx_fee": "1000",
   "addr_prefix": "cosmos",
   "logo": "http://localhost:80/your_logo.gif",
   "assets": [
     {
-      "base": "atest",
-      "symbol": "TEST",
+      "base": "akokka",
+      "symbol": "kokka",
       "exponent": "18",
       "coingecko_id": "",
       "logo": "http://localhost:80/your_logo.gif"
