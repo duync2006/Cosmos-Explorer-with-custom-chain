@@ -1,0 +1,25 @@
+{
+  "chain_name": "localhost",
+  "registry_name": "localhost",
+  "api": [
+    { "provider": "localhost", "address": "http://localhost:1317" }
+  ],
+  "rpc": [
+    { "provider": "localhost", "address": "http://localhost:26657" }
+  
+],
+  "sdk_version": "0.47.0",
+  "coin_type": "60",
+  "min_tx_fee": "1000",
+  "addr_prefix": "cosmos",
+  "logo": "https://drive.google.com/file/d/1Cadv7GF_KCLm4nshbttFWEjWMy1w04rQ/view?usp=sharing",
+  "assets": [
+    {
+      "base": "akokka",
+      "symbol": "kokka",
+      "exponent": "18",
+      "coingecko_id": "",
+      "logo": "https://drive.google.com/file/d/1Cadv7GF_KCLm4nshbttFWEjWMy1w04rQ/view?usp=sharing"
+    }
+  ]
+}
