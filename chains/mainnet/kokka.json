@@ -2,17 +2,17 @@
   "chain_name": "kokka",
   "registry_name": "kokka",
   "api": [
+    { "provider": "x24", "address": "http://x24.i247.com:1317" },
     { "provider": "x23", "address": "http://100.22.235.90:1317" },
     { "provider": "x22", "address": "http://44.252.171.94:1317" },
     { "provider": "x21", "address": "http://54.190.124.5:1317" },
-    { "provider": "x24", "address": "http://x24.i247.com:1317" },
     { "provider": "localhost", "address": "http://127.0.0.1:1317" }
   ],
   "rpc": [
+    { "provider": "x24", "address": "http://x24.i247.com:26657" },
     { "provider": "x23", "address": "http://100.22.235.90:26657" },
     { "provider": "x22", "address": "http://44.252.171.94:26657" },
     { "provider": "x21", "address": "http://54.190.124.5:26657" },
-    { "provider": "x24", "address": "http://x24.i247.com:26657" },
     { "provider": "localhost", "address": "http://127.0.0.1:26657" }
   
 ],
